@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E7161E10-16DA-4D24-A342-A7AD370A7E29</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BigClockWithSeconds</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>f7545b6e-451e-4087-98ae-847046a92910++3132</key>
+		<string>https://cbck.repositoryhosting.com/svn/cbck_bigclock/BigClockWithSeconds</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BigClockWithSeconds.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>f7545b6e-451e-4087-98ae-847046a92910++3132</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>f7545b6e-451e-4087-98ae-847046a92910++3132</key>
+		<string>https://cbck.repositoryhosting.com/svn/cbck_bigclock</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://cbck.repositoryhosting.com/svn/cbck_bigclock/BigClockWithSeconds/BigClockWithSeconds.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>f7545b6e-451e-4087-98ae-847046a92910++3132</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>f7545b6e-451e-4087-98ae-847046a92910++3132</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BigClockWithSeconds</string>
+		</dict>
+	</array>
+</dict>
+</plist>

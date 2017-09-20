@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "f7545b6e-451e-4087-98ae-847046a92910++3132",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f7545b6e-451e-4087-98ae-847046a92910++3132" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f7545b6e-451e-4087-98ae-847046a92910++3132" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E7161E10-16DA-4D24-A342-A7AD370A7E29",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f7545b6e-451e-4087-98ae-847046a92910++3132" : "BigClockWithSeconds\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BigClockWithSeconds",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BigClockWithSeconds.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/cbck.repositoryhosting.com\/svn\/cbck_bigclock",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f7545b6e-451e-4087-98ae-847046a92910++3132"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* BigClockWithSecondsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {861, 597}}";
+			sepNavSelRange = "{230, 0}";
+			sepNavVisRange = "{0, 588}";
+		};
+	};
+	1D3623250D0F684500981E51 /* BigClockWithSecondsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {861, 557}}";
+			sepNavSelRange = "{318, 0}";
+			sepNavVisRange = "{0, 857}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* BigClockWithSeconds */ = {
+		activeExec = 0;
+		executables = (
+			CEF537070F894AE5003921C5 /* BigClockWithSeconds */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BigClockWithSecondsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {861, 867}}";
+			sepNavSelRange = "{234, 0}";
+			sepNavVisRange = "{0, 1604}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BigClockWithSecondsViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{466, 182}\";\n            s = 0;\n        },\n                {\n            r = \"{2183, 57}\";\n            s = 0;\n        },\n                {\n            r = \"{2341, 410}\";\n            s = 0;\n        },\n                {\n            r = \"{2788, 53}\";\n            s = 0;\n        },\n                {\n            r = \"{2878, 2861}\";\n            s = 0;\n        },\n                {\n            r = \"{5768, 188}\";\n            s = 0;\n        },\n                {\n            r = \"{6976, 322}\";\n            s = 0;\n        },\n                {\n            r = \"{7302, 112}\";\n            s = 0;\n        },\n                {\n            r = \"{7419, 146}\";\n            s = 0;\n        },\n                {\n            r = \"{7570, 292}\";\n            s = 0;\n        },\n                {\n            r = \"{8246, 156}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 8703}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {861, 1890}}";
+			sepNavSelRange = "{224, 0}";
+			sepNavVisRange = "{0, 1931}";
+			sepNavWindowFrame = "{{15, 486}, {991, 687}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CEF537070F894AE5003921C5 /* BigClockWithSeconds */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BigClockWithSeconds */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* BigClockWithSeconds */,
+		);
+		breakpoints = (
+			CEF538340F9A9107003921C5 /* BigClockWithSecondsViewController.m:23 */,
+			CEB9B3F40F9BABA1009FA0F6 /* BigClockWithSecondsViewController.m:36 */,
+			CE068AE90F9E69D4009D972E /* BigClockWithSecondsViewController.m:37 */,
+			CE07A8D90FB229C3000924BE /* BigClockWithSecondsViewController.m:51 */,
+		);
+		codeSenseManager = CEF537230F894B11003921C5 /* Code sense */;
+		executables = (
+			CEF537070F894AE5003921C5 /* BigClockWithSeconds */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					571,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					683,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					659,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					643,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 307014150;
+			PBXWorkspaceStateSaveDate = 307014150;
+		};
+		perUserProjectItems = {
+			CE6EB9BE101E5213007C8480 /* PBXBookmark */ = CE6EB9BE101E5213007C8480 /* PBXBookmark */;
+			CE6EB9C0101E5213007C8480 /* PBXTextBookmark */ = CE6EB9C0101E5213007C8480 /* PBXTextBookmark */;
+			CE6EB9C1101E5213007C8480 /* PBXTextBookmark */ = CE6EB9C1101E5213007C8480 /* PBXTextBookmark */;
+			CE7E97390FCF145A00E4B35B /* PBXBookmark */ = CE7E97390FCF145A00E4B35B /* PBXBookmark */;
+			CEC86B77124CA8F20095BEF7 /* PBXTextBookmark */ = CEC86B77124CA8F20095BEF7 /* PBXTextBookmark */;
+			CEC86B78124CA8F20095BEF7 /* PBXTextBookmark */ = CEC86B78124CA8F20095BEF7 /* PBXTextBookmark */;
+			CEC86B79124CA8F20095BEF7 /* PBXTextBookmark */ = CEC86B79124CA8F20095BEF7 /* PBXTextBookmark */;
+			CEC86B7A124CA8F20095BEF7 /* PlistBookmark */ = CEC86B7A124CA8F20095BEF7 /* PlistBookmark */;
+			CEC86C22124CB0440095BEF7 /* PlistBookmark */ = CEC86C22124CB0440095BEF7 /* PlistBookmark */;
+			CEC86C23124CB0440095BEF7 /* PBXBookmark */ = CEC86C23124CB0440095BEF7 /* PBXBookmark */;
+			CEE3196E1096261700E8D275 /* PBXTextBookmark */ = CEE3196E1096261700E8D275 /* PBXTextBookmark */;
+		};
+		sourceControlManager = CEF537220F894B11003921C5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {861, 557}}";
+			sepNavSelRange = "{176, 0}";
+			sepNavVisRange = "{0, 410}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* BigClockWithSeconds_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {861, 557}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 207}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 278}, {970, 495}}";
+		};
+	};
+	CE068AE90F9E69D4009D972E /* BigClockWithSecondsViewController.m:37 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* BigClockWithSecondsViewController.m */;
+		functionName = "-updateClock";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 37;
+		location = BigClockWithSeconds;
+		modificationTime = 270422486.674893;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	CE07A8D90FB229C3000924BE /* BigClockWithSecondsViewController.m:51 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* BigClockWithSecondsViewController.m */;
+		functionName = "-updateClock";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 51;
+		location = BigClockWithSeconds;
+		modificationTime = 270422486.674945;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	CE6EB9BE101E5213007C8480 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CEFBEFEE0FC9D41900F5BBAB /* StartBildSmall.png */;
+	};
+	CE6EB9C0101E5213007C8480 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BigClockWithSecondsViewController.m */;
+		name = "BigClockWithSecondsViewController.m: 9";
+		rLen = 0;
+		rLoc = 224;
+		rType = 0;
+		vrLen = 2112;
+		vrLoc = 0;
+	};
+	CE6EB9C1101E5213007C8480 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BigClockWithSecondsViewController.h */;
+		name = "BigClockWithSecondsViewController.h: 10";
+		rLen = 0;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 1604;
+		vrLoc = 0;
+	};
+	CE7E972C0FCF131100E4B35B /* 21TheBigClock.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 486}, {991, 687}}";
+		};
+	};
+	CE7E97390FCF145A00E4B35B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CE1AE95C0FC49B82007C7A39 /* Default.png */;
+	};
+	CEB9B3F40F9BABA1009FA0F6 /* BigClockWithSecondsViewController.m:36 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* BigClockWithSecondsViewController.m */;
+		functionName = "-updateClock";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 36;
+		modificationTime = 270422486.674827;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	CEC86B77124CA8F20095BEF7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BigClockWithSecondsAppDelegate.m */;
+		name = "BigClockWithSecondsAppDelegate.m: 12";
+		rLen = 0;
+		rLoc = 318;
+		rType = 0;
+		vrLen = 857;
+		vrLoc = 0;
+	};
+	CEC86B78124CA8F20095BEF7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* BigClockWithSeconds_Prefix.pch */;
+		name = "BigClockWithSeconds_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 207;
+		vrLoc = 0;
+	};
+	CEC86B79124CA8F20095BEF7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 6";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 410;
+		vrLoc = 0;
+	};
+	CEC86B7A124CA8F20095BEF7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CE7E972C0FCF131100E4B35B /* 21TheBigClock.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/bode/Programmierung/iPod/BigClockWithSeconds/21TheBigClock.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	CEC86C22124CB0440095BEF7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIStatusBarHidden,
+		);
+		name = /Users/bode/Programmierung/iPod/BigClockWithSeconds/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CEC86C23124CB0440095BEF7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CEFBEFEE0FC9D41900F5BBAB /* StartBildSmall.png */;
+	};
+	CEE3196E1096261700E8D275 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* BigClockWithSecondsAppDelegate.h */;
+		name = "BigClockWithSecondsAppDelegate.h: 9";
+		rLen = 0;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 588;
+		vrLoc = 0;
+	};
+	CEF537070F894AE5003921C5 /* BigClockWithSeconds */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BigClockWithSeconds;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	CEF537220F894B11003921C5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CEF537230F894B11003921C5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CEF538340F9A9107003921C5 /* BigClockWithSecondsViewController.m:23 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* BigClockWithSecondsViewController.m */;
+		functionName = "-didChangeValue:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 23;
+		location = BigClockWithSeconds;
+		modificationTime = 270422486.674802;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+}
