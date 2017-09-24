@@ -77,6 +77,8 @@
 		CE71358415F4D89800B9DC0E /* 20-gear-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "20-gear-2@2x.png"; sourceTree = "<group>"; };
 		CE77518415ED6F2B00A27395 /* MainWindow-iPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "MainWindow-iPad.xib"; path = "iPad/MainWindow-iPad.xib"; sourceTree = "<group>"; };
 		CE7E972C0FCF131100E4B35B /* 21TheBigClock.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 21TheBigClock.plist; sourceTree = "<group>"; };
+		CEA096911F77D77C009D8883 /* screenshot_landscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot_landscape.png; sourceTree = "<group>"; };
+		CEA096931F77D7E1009D8883 /* screenshot_portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot_portrait.png; sourceTree = "<group>"; };
 		CEC1688D160C5AD600E82AC7 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -171,6 +173,8 @@
 		CE71355815F14BCB00B9DC0E /* pics */ = {
 			isa = PBXGroup;
 			children = (
+				CEA096911F77D77C009D8883 /* screenshot_landscape.png */,
+				CEA096931F77D7E1009D8883 /* screenshot_portrait.png */,
 				CE31F52416163C2100D783D2 /* Icon_Retina_72.png */,
 				CE31F52516163C2100D783D2 /* Icon.png */,
 				CE31F52616163C2100D783D2 /* Icon@2x.png */,

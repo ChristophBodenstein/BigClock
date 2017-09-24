@@ -3,6 +3,8 @@ A simple iOS Clock meant to serve as HelloWorld.
 
 As it was written in objective C many years ago it might not be the best entry point for todays projects.
 
+![Screenshot in Landscape mode](https://github.com/ChristophBodenstein/BigClock/blob/master/screenshot_landscape.png?raw=true)
+
 ### Some features
 * choose position and size of clock elements (e.g. calender week, seconds)
 * enable/disable some elements
