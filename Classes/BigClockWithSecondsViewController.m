@@ -46,7 +46,7 @@
 #define EDITFINISHIMAGENAME @"258-checkmark.png"
 #define EDITSTARTIMAGENAME @"20-gear-2.png"
 #define MINLABELSIZE 30
-#define INFOWEBSITEADDRESS @"http://tools.cbck.de/BigClock/relocateBigClock.php"
+#define INFOWEBSITEADDRESS @"https://github.com/ChristophBodenstein/BigClock"
 //TODO: Enter github address here
 
 - (void)updateClock{
